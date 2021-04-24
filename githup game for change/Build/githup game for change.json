@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game For Change",
+"dataUrl": "githup game for change.data.unityweb",
+"wasmCodeUrl": "githup game for change.wasm.code.unityweb",
+"wasmFrameworkUrl": "githup game for change.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
